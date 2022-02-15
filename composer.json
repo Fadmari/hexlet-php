@@ -1,0 +1,16 @@
+{
+    "name": "hex/hexlet_php",
+    "description": "heh package",
+    "autoload": {
+        "psr-4": {
+            "Hex\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fadmari",
+            "email": "Fadmarimade@yandex.ru"
+        }
+    ],
+    "require": {}
+}
